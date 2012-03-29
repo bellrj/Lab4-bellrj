@@ -1,0 +1,5 @@
+C:\Users\bellrj\CSSE376\Lab4-bellrj\bin\Debug\Expedia.dll
+C:\Users\bellrj\CSSE376\Lab4-bellrj\bin\Debug\Expedia.pdb
+C:\Users\bellrj\CSSE376\Lab4-bellrj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bellrj\CSSE376\Lab4-bellrj\obj\Debug\Expedia.dll
+C:\Users\bellrj\CSSE376\Lab4-bellrj\obj\Debug\Expedia.pdb
